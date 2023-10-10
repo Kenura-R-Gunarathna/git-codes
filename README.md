@@ -89,9 +89,11 @@ Creating a new branch - `git checkout -b new-branch-name`
 
 lets say if we are going to create the footer to my website then start a new brach so that the chages would not harm my main branch. here '-b' stands for branch.
 
-``````
+```
 PS D:\laragon\www\git> git checkout -b footer
 Switched to a new branch 'footer'
+```
+
 
 
 But the branch is still empty and we need to add the files and folders to it. Therefore,
